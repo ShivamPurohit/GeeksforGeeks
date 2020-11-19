@@ -1,4 +1,9 @@
 // Java program to find length of loop in linked list
+
+//Complexity Analysis:
+// Time complexity:O(n).
+// Auxiliary Space:O(1).
+
 public class Main { 
     Node head;
   
