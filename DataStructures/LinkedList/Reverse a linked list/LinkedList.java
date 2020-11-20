@@ -1,5 +1,5 @@
 // Java program for reversing the linked list
-//Iterative meyhod
+//Iterative method
 //Time Complexity: O(n) 
 //Space Complexity: O(1)
 
