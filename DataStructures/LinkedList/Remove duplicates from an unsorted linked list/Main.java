@@ -1,4 +1,4 @@
-//Method 1 - Using two looops   ->x
+//Method 1 - Using two looops   ->TC = O(n^2)
 //Method 2 - Using Sorting
 //    1) merge sort(as it is most efficient) TC= O(nlogn)
 //    2)RemoveDuplicates on sorted linked list TC=O(n)
