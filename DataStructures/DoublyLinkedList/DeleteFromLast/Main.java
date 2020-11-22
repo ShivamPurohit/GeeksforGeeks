@@ -11,6 +11,7 @@ public class Main{
     }
     
     public Node deleteFromLast(Node head){
+        if(head == null) return head;
         Node tail = head;
         while(tail.next!=null){
             tail= tail.next;
